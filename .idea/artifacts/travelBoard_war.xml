@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="travelBoard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>travelBoard</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch4-1.0.0-BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="travelBoard:war exploded" />
+    </root>
+  </artifact>
+</component>

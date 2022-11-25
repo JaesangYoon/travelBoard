@@ -1,0 +1,11 @@
+.head {
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.body1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
